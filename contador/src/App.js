@@ -5,7 +5,6 @@ import React, { useState } from 'react';
 function Contador () {
   const [count, setCount] = useState(0);
   const suma = ()=> setCount(count +1);
-  
   return (
     <div className='text-center mt-4'>
       <h1>CONTADOR</h1>

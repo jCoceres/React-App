@@ -1,7 +1,7 @@
 body {
   background-color: thistle;
 }
-h1 {
+h1, p {
   color: #212529;
 }
 
